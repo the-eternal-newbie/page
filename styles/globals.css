@@ -1,3 +1,7 @@
+:root {
+  --re-use-main-color: #fc5e03;
+}
+
 html,
 body {
   padding: 0;
